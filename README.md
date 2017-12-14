@@ -1,6 +1,8 @@
 # Supporting Material: A Big Data Pipeline for High Volume Scientific Data Streams (version 1.0)
 
-This notebook provides ppython source code for the examples presented in the recent paper, "A Big Data Pipeline for High Volume Scientific Data Streams".
+This notebook provides python source code for the examples presented in the recent paper, "A Big Data Pipeline for High Volume Scientific Data Streams".
+
+[![DOI](https://zenodo.org/badge/114265450.svg)](https://zenodo.org/badge/latestdoi/114265450)
 
 ## Author: Rob Lyon
 ## Email : robert.lyon@manchester.ac.uk
